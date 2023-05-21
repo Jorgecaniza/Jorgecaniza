@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png", UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:0 type="stream" channelId="4802" group="Sin Categoria" logo="http://121.0.0.1", Telefuturo
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/2.ts
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/22.ts
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="https://ipparaguay.com.py/wp-content/uploads/2020/07/Snt-en-vivo.jpg", SNT
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/5.ts
+#EXTINF:0 type="stream" channelId="1330" group="Sin Categoria" logo="http://127.0.0.1/", (OFFLINE) Hbo
+http://45.35.77.114:34213/live/cyx_18F2D042E0a44fED979_480p.ts
+#EXTINF:0 type="stream" channelId="2432" group="Sin Categoria" logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRUSFRUZGBgWHBoaGBwaGRgZGBQZGBgaGRgcGhocIS4lHh4rHxkYKzgoKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHzQrJSs2NDQ1NDQ0NDQ2NDQ0NDQ0NDQ0NDQ2NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcBAgj/xABMEAACAQIDBQIJCAUKBQUAAAABAgADEQQSIQUxQVFhBnEHEyIyQlKBkaEUYnKCkrHB0RYjosLSFTNTVHOTpLLw8RckQ2PiJTSDlLP/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAoEQADAAICAgEDBAMBAAAAAAAAAQIDERIhBDFREyJBBTJhkXGBoRT/2gAMAwEAA", (ONLINE) Globo
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/141.ts
+#EXTINF:0 type="stream" channelId="1455" group="DOCUMENTARIOS" logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg", History Channel
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/58.ts
+#EXTINF:0 type="stream" channelId="2587" group="Sin Categoria" logo="http://127.0.0.1/", HBO Xtreme
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/188.ts
+#EXTINF:0 type="stream" channelId="1201" group="Sin Categoria" logo="http://127.0.0.1/", History 2
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/507.ts
+#EXTINF:0 type="stream" channelId="50" group="Sin Categoria" logo="http://127.0.0.1/", Animal Planet
+http://181.176.148.142:8000/play/a034
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png", (ONLINE) Nat Geografic
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/131.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2709" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) Teen Nick
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/210.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="310" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) El Gourmet
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/457.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4035" group="Sin Categoria" logo="https://i.imgur.com/jySvMsw.png", (ONLINE) TRECE
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="333" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) Golden
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/239.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2501" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) AMC
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/100.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1190" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) Comedy Central
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/107.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1326" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) Cinemax
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/189.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1208" group="Sin Categoria" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png", (ONLINE) A&E
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/195.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="187" group="Sin Categoria" logo="http://121.0.0.1", (OFFLINE) Universal
+http://200.24.132.99:8000/play/a01g?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="19" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) Disney Channel
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/434.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="57" group="Sin Categoria" logo="http://121.0.0.1", (OFFLINE) Discovery Channel
+http://181.176.148.142:8000/play/a028?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png", (OFFLINE) H&H
+http://181.176.148.142:8000/play/a02l?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1303" group="Sin Categoria" logo="http://121.0.0.1", (ONLINE) FX
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/200.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="64" group="Sin Categoria" logo="http://121.0.0.1", (OFFLINE) CineCanal
+http://200.24.132.99:8000/play/a01f?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2432" group="Sin Categoria" logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRUSFRUZGBgWHBoaGBwaGRgZGBQZGBgaGRgcGhocIS4lHh4rHxkYKzgoKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHzQrJSs2NDQ1NDQ0NDQ2NDQ0NDQ0NDQ0NDQ2NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcBAgj/xABMEAACAQIDBQIJCAUKBQUAAAABAgADEQQSIQUxQVFhBnEHEyIyQlKBkaEUYnKCkrHB0RYjosLSFTNTVHOTpLLw8RckQ2PiJTSDlLP/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAoEQADAAICAgEDBAMBAAAAAAAAAQIDERIhBDFREyJBBTJhkXGBoRT/2gAMAwEAA", (ONLINE) Globo
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/141.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="http://121.0", (ONLINE) TLX TV
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8&PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="40" group="Sin Categoria" logo="http://121.0", (ONLINE) Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2583" group="Sin Categoria" logo="http://121.0.0.1", (ONLINE) HBO Signature
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/74.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1330" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) HBO HD
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/102.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2584" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) HBO family
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/188.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2585" group="Sin Categoria" logo="http://127.0.0.1", (ONLINE) HBO Plus
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/74.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="188" group="Sin Categoria" logo="http://121.0.0.1", (OFFLINE) Sony
+http://200.24.132.99:8000/play/a02o?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="530" group="Sin Categoria" logo="http://127.0.0.1", (ONLINE) SonY HD
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/121.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg", (ONLINE) Orbi
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w89118231.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Sin Categoria" logo="https://lumiere-a.akamaihd.net/v1/images/logo-star_f6b34fe6.png?region=0,19,139,76", (ONLINE) star II
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/201.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1052" group="Without category" logo="http://127.0.0.1/", (ONLINE) TNT
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/203.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="https://cnbl-cdn.bamgrid.com/assets/e41020c93fec10692725897c2cffbc75a1c59a6855b2cb702d85b45c596a81e7/original", (OFFLINE) Star Channel BR
+http://212.102.60.39:2200/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1573" group="Without category" logo="http://127.0.0.1/", (ONLINE) AXN
+http://mainpy.allmedia4.tv:25461/live/deisimartv789/deisimartv789/111.ts?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1200" group="Without category" logo="http://127.0.0.1", (OFFLINE) Lifetime
+http://cdn.connectbr.com.br/lifetime/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2409" group="Without category" logo="https://www.trece.com.py/public/img/TRECE_40.png", (ONLINE) EL TRECE
+http://174.138.118.252/live/trece_mid.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="41" group="Without category" logo="http://127.0.0.1/", (ONLINE) NICKELODEON
+http://cdn.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1201" group="Sin Categoria" logo="http://127.0.0.1/", (ONLINE) HISTORY 2
+http://cdn.connectbr.com.br/h2/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1719" group="Sin Categoria" logo="http://127.0.0.1", (OFFLINE) Paramount
+http://181.176.148.142:8000/play/a033?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", (OFFLINE) A&E br
+http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2433" group="Without category" logo="https://lh3.googleusercontent.com/-DdgrWfEy7gQ/X4y0ZVMYsSI/AAAAAAAA6gI/7U7vCGS9OuM5eKt48Hso70d3nRI1DCKewCK8BGAsYHg/s0/2020-10-18.png", (ONLINE) SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="https://www.m3u.cl/logo/560_Band.png", (OFFLINE) Band TV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1444" group="Without category" logo="https://www.m3u.cl/logo/836_ABC_TV.png", (ONLINE) ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="https://cdn.rcc.com.py/2018/10/logo-retina-mobile-rcc.png", (ONLINE) RCC TV
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 type="stream" channelId="2587" group="Sin Categoria" logo="http://127.0.0.1/", HBO star 01
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CowF035RlmKCljMvsz8QdWw7tZGNl19-7SVBDuFWb4TfPR4H7mAupUbXE9skK9HYM2UkxmGcHYsB4jrSYV4vziAkwo5-C4cLiZoaNKUXw4Wtpqly7HE7Rarfc3OMBXyF7KN1HMbnFb8UG_ZVsR1pAE4OxwGVwELAVtFYAiXHrZajOWpwnIKACph6s5MYJhX_Rc9xuBz8otONLuHtdX2KtaAJv73LDn2jpJpBFauXDW9RgvAG9uxAfs808C50k-E2Q_8yE-lJ-lF9vLYzanirh6-5G5b_Zj2CUVjb_H50Bizf4bmQA13HdFp4m2EWtrFDh-71IopjWvthcAss_5BrzdtbmFjAF-QR5hms9o2yeONsHkMAieY6sxvJgtmGL1IiNLZcNWP_ZapVAxvt9-shfWN1EXnRcmaa5b6mQzwRSEhrbSLI5mc6i3umSadQhtS2dIQ659E1RMySwx6jPltZBRDXrMDh_wgIwJ-gz66NJ8uwSLaO-S4sFeo2usz0SuKDHbL1Acm2zJ2_vS7RxaNmdYOK7NshQFCXHgk4zOsVxAMaXaW7xWeoJmYv91NyMwda5KY9nng6dzCecxYpe1k1gDW8HaU4ttf0_K3_ujBE6LDwExrZjolm0j-b_o4b7sqR9rluguJ-iFkqMeQN1ooFulqhmgFMjOccrYfi2Rd3JmK6m-wZR1QE_bu1I-5HYXGxpxRLpmE-IXMY0NcjNmUp6pKoHWVdrlX2Oxr2AKaAsHmGs9QLK1P-HnClp2hJH8JVx-Kyyl7R1qEETO0iToKEhSbkwZkwwqeV0wConhxWfGaTxjyLgwdqGZWUQPlSYfPUp5gPaOIg_hdJYTsvNcH7FsKobcsJ-bhDUmScMqZVlRoM6gh55OkrewNiGwrbIAEqCWV1LXdlc3QtMjDPBg.m3u8
+#EXTINF:0 type="stream" channelId="2587" group="Sin Categoria" logo="http://127.0.0.1/", HBO star 02
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/Co0FpXy9yBaJzkzpwy5an_ccbTIKXBlPpSBtB77Ag5dEJI8V2FMvoeSD28rIRZBmE2soPXx_Ba3Cx6AtNz7XqjX9cPyiNRHb8vK8WRvn0Wv0B91wK1-o4CELuLaHsWuZAGnmgrXRFOLHxIqQ97FJAr5eJdIoFwTHiOHrzD_WKcdcGIa7GY3LGERchIEl-Q4MGZ_ytNaE1h03Czm2U1mVLklUCtnBeQI7Jkkd6jQ1gcaCmRTTyGFQ3ZQJhBNkPLkA-U5BZTBIPsNFqceWPtJaxxH-E1OKrGuINGHi1a6yTEOem2pCd8gAJuU3IFgHMwIXE22coDNYUmGlabLfzGaqfTPiEcjVF6sxeTCxjitz-PAZjNSmuT7MAo3iCoAURora8Lpcf_dgLeiUxdF07e2q_idi0lLnt7yWyrpqnn4b9vWgyNbl30mnd8y7y-Y7nfdB1nFjFFFz6tji1GySwTKayq9vrTKAZKewuG52WmghZz72528b0SPasZXKba7sf2zwunTb-YgyKH9RwfYXV-Uu8uJ5T6VLdgznUDQfysbnetTeueR9_mGdQc8HXzlg98NLB-CRMq-JJFCu-EhzGbCL6R5AqOeXj59oOqwzlK05j5DuT6509s549mSZ2Sjjz_VDVG_TFnsGBx5huTsphSaAjXvfzB0iI0nVRe0uSJvwUOrYvWpjmmIVr1tdwe2aCsswUNKvDQfsEGTkc9NK4rOpPruvuiP4bZGsBDqc5ldjSJUZTKD8qkbh8wV5-AoTUCGvBPHr02c_IOcby2WcS11hZz5JsZmOd58UEijkYF1z4QXp7hAiC6feODU8ST75MiunYcQworPeMydERym-v3KDPtnWLfnly3C5vf7-_aBfprAaDF6TFv7L6Ih3IvPwjSABKglldS13ZXN0LTIwzwY.m3u8
+
+
+
+
+
